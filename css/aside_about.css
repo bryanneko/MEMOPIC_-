@@ -1,0 +1,30 @@
+body{
+    font-family: verdana;
+    text-align: center;
+}
+
+@keyframes slideInRight{
+    from{
+        transform: translateX(300px);
+    }
+    
+    to{transform: translate(0);
+        
+    }
+}
+
+
+#nigga{margin:0px;
+float: right;
+    padding-top: 140px;
+    animation-name:slideInRight;
+    animation-duration:2s;
+    animation-timing-function: ease;
+    animation-delay: 0px;
+    animation-iteration-count: 1;
+    animation-direction:both;
+    animation-fill-mode:none;
+
+    
+  
+}

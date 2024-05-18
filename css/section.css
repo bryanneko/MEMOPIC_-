@@ -1,0 +1,38 @@
+body{
+    font-family: verdana;
+    text-align: center;
+}
+
+#h1{margin: 0px;
+padding-top: 20%;
+font-size: 40px;}
+
+#thrid{margin: 0px;
+font-size: 40px;}
+
+#sec h1{margin: 0px;
+font-size: 40px;}
+
+#contact us{
+    text-align: center;
+}
+
+a:link{
+    border: 1px solid black;
+    display: inline-block;
+    background-color: black;
+    width: 150px;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+h4{margin: 0px;
+    font-size: 20px;
+    
+}
+
+
